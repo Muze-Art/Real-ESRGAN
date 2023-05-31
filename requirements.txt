@@ -2,7 +2,6 @@ basicsr>=1.4.2
 # facexlib>=0.2.5
 # gfpgan>=1.3.5
 facexlib @ git+https://github.com/Stability-AI/facexlib.git@54e7fb38899474db2e36ab2b42d051502cd131fd
-gfpgan @ git+https://github.com/Stability-AI/GFPGAN.git@24cff8193fd3232566bbecc93be999892eee8641
 numpy
 opencv-python
 Pillow
