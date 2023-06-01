@@ -1,5 +1,5 @@
 basicsr>=1.4.2
-gfpgan @ git+https://github.com/Stability-AI/GFPGAN.git@24cff8193fd3232566bbecc93be999892eee8641
+gfpgan @ git+https://github.com/Stability-AI/GFPGAN.git@d26c4eb3633d8a597840d21c4b6bb8329f822a32
 numpy
 opencv-python
 Pillow
